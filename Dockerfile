@@ -2,7 +2,7 @@
 
 FROM mattdm/fedora
 
-MAINTAINER Armine Hovsepyan <ahovsepy@redhat.com>
+MAINTAINER Matt Mahoney <mmahoney@redhat.com>
 
 # install missing commands
 #RUN yum -y update --skip-broken
